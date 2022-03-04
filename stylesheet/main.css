@@ -71,11 +71,12 @@ body {
 }
 
 .player {
-  width     : 330px;
-  height    : 474px;
-  padding   : 15px;
-  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  margin-top: 70px;
+  width        : 330px;
+  height       : 474px;
+  padding      : 15px;
+  box-shadow   : rgba(100, 100, 111, 0.2) 0px 9px 30px 0px;
+  margin-top   : 70px;
+  border-radius: 15px;
 }
 
 .player:hover {
